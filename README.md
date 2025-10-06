@@ -33,4 +33,10 @@ Se aplica la metodología Design Science, que permite abordar el problema desde 
 - Microsoft Access: base de datos original.  
 - Visual Paradigm: modelado conceptual flexible y visual.  
 - Integranova Modeler: generación de bases de datos a partir de modelos conceptuales.  
-- MySQL: entorno final de almacenamiento de datos.  
+- MySQL: entorno final de almacenamiento de datos.
+
+---
+
+## Confidencialidad
+Por motivos de confidencialidad, el contenido completo de este Trabajo de Fin de Grado no se publica en este repositorio.  
+Este repositorio tiene únicamente carácter informativo y resume los objetivos, metodología y alcance general del proyecto.  
