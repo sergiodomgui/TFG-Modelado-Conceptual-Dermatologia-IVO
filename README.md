@@ -1,7 +1,8 @@
 # TFG - Modelado Conceptual del Servicio de Dermatología del IVO
 **Universitat Politècnica de València (UPV)**  
 **Fecha:** 05/09/2024  
-**Autores:** Sergio Domingo Guitarte, Laura Mota Herranz, Óscar Pastor López, Eduardo Nagore Enguidanos  
+**Autores:** Sergio Domingo Guitarte
+**Tutores:**Laura Mota Herranz, Óscar Pastor López, Eduardo Nagore Enguidanos  
 **Departamento:** Sistemas Informáticos y Computación  
 **Centro:** Escuela Técnica Superior de Ingeniería Informática  
 **Instituto:** Instituto Universitario Valenciano de Investigación en Inteligencia Artificial (VRAIN)
@@ -34,29 +35,3 @@ Se aplica la metodología Design Science, que permite abordar el problema desde 
 - Visual Paradigm: modelado conceptual flexible y visual.  
 - Integranova Modeler: generación de bases de datos a partir de modelos conceptuales.  
 - MySQL: entorno final de almacenamiento de datos.  
-
----
-
-## Contenido del repositorio
-- `Memoria_TFG.pdf`: documento completo del trabajo.  
-- `/Modelos/`: diagramas conceptuales (Visual Paradigm, Integranova).  
-- `/Migracion/`: scripts SQL utilizados en la migración a MySQL.  
-- `/Presentacion/`: diapositivas de la defensa del TFG.  
-
----
-
-## Resultados
-El proyecto obtiene un modelo de datos más eficiente, consistente y alineado con las necesidades actuales del Servicio de Dermatología del IVO, estableciendo las bases para futuros desarrollos de sistemas de información médica interoperables.
-
----
-
-## Cita sugerida
-Domingo Guitarte, S.; Mota Herranz, L.; Pastor López, O.; Nagore Enguidanos, E.  
-*Modelado Conceptual del Servicio de Dermatología del Instituto Valenciano de Oncología (IVO)*.  
-Universitat Politècnica de València, 2024.
-
----
-
-## Licencia
-Este proyecto se distribuye con fines académicos bajo la licencia **Creative Commons CC-BY-NC 4.0**  
-(Se permite el uso y adaptación no comercial, con atribución a los autores originales).
