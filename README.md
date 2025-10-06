@@ -1,9 +1,8 @@
 # TFG - Modelado Conceptual del Servicio de Dermatología del IVO
 **Universitat Politècnica de València (UPV)**  
-**Fecha:** 05/09/2024  
+**Fecha:** 07/2024  
 **Autores:** Sergio Domingo Guitarte
 **Tutores:** Laura Mota Herranz, Óscar Pastor López, Eduardo Nagore Enguidanos  
-**Departamento:** Sistemas Informáticos y Computación  
 **Centro:** Escuela Técnica Superior de Ingeniería Informática  
 **Instituto:** Instituto Universitario Valenciano de Investigación en Inteligencia Artificial (VRAIN)
 
