@@ -1,2 +1,62 @@
-# Trabajo-de-Fin-de-Grado
-Publicación Caracterización conceptual del modelo de datos del Servicio de Dermatología del IVO
+# TFG - Modelado Conceptual del Servicio de Dermatología del IVO
+**Universitat Politècnica de València (UPV)**  
+**Fecha:** 05/09/2024  
+**Autores:** Sergio Domingo Guitarte, Laura Mota Herranz, Óscar Pastor López, Eduardo Nagore Enguidanos  
+**Departamento:** Sistemas Informáticos y Computación  
+**Centro:** Escuela Técnica Superior de Ingeniería Informática  
+**Instituto:** Instituto Universitario Valenciano de Investigación en Inteligencia Artificial (VRAIN)
+
+---
+
+## Descripción del proyecto
+Este Trabajo de Fin de Grado tiene como objetivo la estructuración de la información manejada por el Servicio de Dermatología del Instituto Valenciano de Oncología (IVO), a través del diseño de un modelo conceptual de datos mejorado.
+
+El trabajo surge de la necesidad de transformar los datos clínicos almacenados en sistemas heredados (Microsoft Access) en una estructura moderna, coherente y reutilizable, facilitando así la transición de dato → información → conocimiento dentro del ámbito médico.
+
+---
+
+## Objetivos principales
+- Analizar el modelo conceptual original del sistema de dermatología del IVO.  
+- Detectar deficiencias y áreas de mejora en el diseño actual.  
+- Proponer un nuevo modelo conceptual de datos, mejor estructurado y libre de ambigüedades.  
+- Implementar el modelo utilizando Visual Paradigm e Integranova Modeler.  
+- Migrar los datos a un entorno MySQL, garantizando coherencia y consistencia.  
+
+---
+
+## Metodología
+Se aplica la metodología Design Science, que permite abordar el problema desde una perspectiva tecnológica y científica, evaluando artefactos (modelos y herramientas) orientados a la mejora de los sistemas de información existentes.
+
+---
+
+## Tecnologías y herramientas utilizadas
+- Microsoft Access: base de datos original.  
+- Visual Paradigm: modelado conceptual flexible y visual.  
+- Integranova Modeler: generación de bases de datos a partir de modelos conceptuales.  
+- MySQL: entorno final de almacenamiento de datos.  
+
+---
+
+## Contenido del repositorio
+- `Memoria_TFG.pdf`: documento completo del trabajo.  
+- `/Modelos/`: diagramas conceptuales (Visual Paradigm, Integranova).  
+- `/Migracion/`: scripts SQL utilizados en la migración a MySQL.  
+- `/Presentacion/`: diapositivas de la defensa del TFG.  
+
+---
+
+## Resultados
+El proyecto obtiene un modelo de datos más eficiente, consistente y alineado con las necesidades actuales del Servicio de Dermatología del IVO, estableciendo las bases para futuros desarrollos de sistemas de información médica interoperables.
+
+---
+
+## Cita sugerida
+Domingo Guitarte, S.; Mota Herranz, L.; Pastor López, O.; Nagore Enguidanos, E.  
+*Modelado Conceptual del Servicio de Dermatología del Instituto Valenciano de Oncología (IVO)*.  
+Universitat Politècnica de València, 2024.
+
+---
+
+## Licencia
+Este proyecto se distribuye con fines académicos bajo la licencia **Creative Commons CC-BY-NC 4.0**  
+(Se permite el uso y adaptación no comercial, con atribución a los autores originales).
